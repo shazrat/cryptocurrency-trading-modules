@@ -1,6 +1,13 @@
 # Cryptocurrency trading modules
 
-Here you can find various scripts and functions that assist in creating a fully autonomous, algorithmic cryptocurrency trading system. I won't share all the goods, but hopefully this will help some of you out there ;)
+Here you can find scripts that assist in creating a fully autonomous, high-speed cryptocurrency trading system. I won't share all the goods, but this may help some of you out there ;)
+
+Feel free to contact me if you have any questions.
+
+Shiraz Hazrat<br />
+shiraz@shirazhazrat.com<br />
+http://www.shirazhazrat.com
+
 
 ## Get GDAX / Coinbase Pro Market Data
 [get_gdax_candlesticks.py](get_gdax_candlesticks.py)
@@ -13,7 +20,7 @@ Best paired with an AWS CloudWatch timer set to every 5 minutes, for easy and wo
 
 [get_tradingview_technicals.py](get_tradingview_technicals.py)
 
-Tradingview is a nifty website that offers a lot of information. Namely, they do a lot of technical analysis on cryptocurrencies. This can be done yourself, but in case you want to skip the hassle, you can scrape their results.
+Tradingview.com is a great website that offers a lot of information. Namely, they do a lot of technical analysis on cryptocurrencies. This can be done yourself, but in case you want to skip the hassle, you can scrape their results.
 
 Example link: [https://tradingview.com/symbols/BCHUSD/technicals](https://tradingview.com/symbols/BCHUSD/technicals/)
 
